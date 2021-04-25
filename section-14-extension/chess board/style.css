@@ -1,0 +1,14 @@
+table,td{
+    border: 1px solid #000;
+}
+table{
+    margin:35px;
+    border-collapse: collapse;
+}
+td{
+    width:35px;
+    height:35px;
+}
+.black{
+    background:#000;
+}
